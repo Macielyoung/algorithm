@@ -1,5 +1,6 @@
 # algorithm
-This is my algorithm task in the first year of my graduate school.
+
+### This is my algorithm task in the first year of my graduate school.
 
 ### The task includes several algorithm implementation with C.
 
