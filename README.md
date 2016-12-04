@@ -22,8 +22,8 @@
    
    9. solve the minimum spanning tree problem with Kruskal algorithm
    
-    10. forward management of multistage graph
+   10. forward management of multistage graph
    
-    11. seek the optimal binary tree
+   11. seek the optimal binary tree
    
-    12. 0/1 knapsack problem（DKNAP）
+   12. 0/1 knapsack problem（DKNAP）
