@@ -28,6 +28,6 @@
    
    12. 0/1 knapsack problem（DKNAP）
    
-   13. double connected subgraph（ART）
+   13. double connected subgraph (ART)
    
-   14. using backtracking method to solve 0/1 knapsack problem
+   14. using backtracking method to solve 0/1 knapsack problem
