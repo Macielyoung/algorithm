@@ -30,4 +30,6 @@
    
    13. double connected subgraph (ART)
    
-   14. using backtracking method to solve 0/1 knapsack problem
+   14. using backtracking method to solve 0/1 knapsack problem(BKNAP)
+
+   15. using branch and bound algorithm to slove 0/1 knapsack problem(LCKNAP)
